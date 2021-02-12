@@ -4,11 +4,9 @@ import discord
 import sympy
 import time
 import os
+
 TOKEN = "TOKEN Einfügen"
 Command = ";LaTeX"
-
-print("Started")
-
 err = "No Error occurred so far!"
 
 
