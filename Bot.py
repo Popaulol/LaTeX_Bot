@@ -4,7 +4,7 @@ import discord
 import sympy
 import time
 import os
-TOKEN = "NzU0MDY0ODM3OTk0MDg2NTIy.X1vTmw.ubUArGVcPOxOZedlrSb65NytOZ4"
+TOKEN = "TOKEN Einfügen"
 Command = ";LaTeX"
 
 print("Started")
